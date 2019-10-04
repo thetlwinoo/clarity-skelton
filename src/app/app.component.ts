@@ -17,7 +17,7 @@ import { locale as navigationMyanmar } from 'app/navigation/i18n/mm';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'gateway-delivery';
+  title = 'clarity-skelton';
   rootConfig: any;
   navigation: any;
   private _unsubscribeAll: Subject<any>;
